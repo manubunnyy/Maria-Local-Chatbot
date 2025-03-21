@@ -1,4 +1,4 @@
-# Local LLM Project
+# Maria Local Chatbot
 
 ## Overview
 
